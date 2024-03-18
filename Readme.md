@@ -8,3 +8,11 @@ Hoàn thiện bố cục của index.html theo chuẩn modern web UI.
 ## Thời gian hoàn thành
 
 Chậm nhất vào ngày 20/03/2024
+
+
+## Ảnh demo kết quả:
+
+## Destop screen:
+
+![Destop screen](https://1drv.ms/i/s!ApBTvyuxS4SxqEa_GOwlGEo5iady?e=8o6qGz)
+![Destop screen](https://1drv.ms/i/s!ApBTvyuxS4SxqEclN7r8ehnz0neq?e=8PHZpp)
