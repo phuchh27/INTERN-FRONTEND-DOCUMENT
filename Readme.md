@@ -14,5 +14,5 @@ Chậm nhất vào ngày 20/03/2024
 
 ## Destop screen:
 
-![Destop screen](https://1drv.ms/i/s!ApBTvyuxS4SxqEa_GOwlGEo5iady?e=8o6qGz)
-![Destop screen](https://1drv.ms/i/s!ApBTvyuxS4SxqEclN7r8ehnz0neq?e=8PHZpp)
+![Destop screen]https://1drv.ms/i/s!ApBTvyuxS4SxqEa_GOwlGEo5iady?e=8o6qGz
+![Destop screen]https://1drv.ms/i/s!ApBTvyuxS4SxqEclN7r8ehnz0neq?e=8PHZpp
